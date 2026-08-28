@@ -1,4 +1,4 @@
-# pjas2025- For FULL EXPLANATION SEE FILES "PRESENTATION" and "RESEARCH PAPER"
+# pjas2025- For FULL EXPLANATION SEE FILES "USING CHAOS THEORY TO UNDERSTAND..." and "RESEARCH PAPER"
 
 Independent research project investigating whether particles carried by convection currents in boiling water exhibit chaotic motion — specifically, whether their trajectories form a strange attractor in phase space.
 
