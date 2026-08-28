@@ -1,2 +1,2 @@
 # pjas2025
-Junior Academy of Science competition
+All the codes used for my project in the 2025 Junior Academy of Science competition. For more info, see the file labeled "presentation". 
